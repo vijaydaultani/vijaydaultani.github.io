@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trying to change this page!"
+title:  "Trying to create first post"
 date:   2016-09-25 15:12:20 +0900
 categories: jekyll update
 ---

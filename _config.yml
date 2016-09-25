@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Vijay Daultani blog
-email: vijay.daultani@gmail.com
+email: ""
 description: "Reflection from a Computer Scientist."
 baseurl: ""
 url: "http://vijaydaultani.github.io"
