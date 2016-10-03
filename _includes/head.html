@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.author }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
+
+    <!-- Specify the link for the Inconsolata Font -->
+    <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700|Space Mono' rel='stylesheet' type='text/css'>
+
+    <!-- Specify the CSS to use -->
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/assets/css/main.css">
+</head>

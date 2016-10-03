@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body>
+
+    {% include header.html %}
+
+    <div class="wrapper">
+	    	<!-- Shown content for each page -->
+		<div class="container content">
+			{{ content }}
+		</div>
+
+    <!-- TODO: Move footer out of the below div -->	
+    {% include footer.html %}
+    </div>
+    </body>
+</html>

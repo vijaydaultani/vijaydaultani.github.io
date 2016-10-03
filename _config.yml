@@ -13,17 +13,23 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Vijay Daultani blog
-email: ""
+title: Vijay Daultani
+email: "vijay.daultani@gmail.com"
 description: "Reflection from a Computer Scientist."
 baseurl: ""
-url: "https://vijaydaultani.github.io"
-twitter_username: vijaydaultani
-github_username:  vijaydaultani
+url: "http://127.0.0.1:4000/"
+twitter_username: "vijaydaultani"
+github_username:  "vijaydaultani"
+linkedin_username: "vijaydaultani"
 
 # Build settings
 markdown: kramdown
-theme: minima
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
 
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for

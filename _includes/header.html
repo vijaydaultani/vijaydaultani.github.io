@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<header>
+    <div class="wrap">
+        <div class="urlbar container">
+            <a id="author-name" class="align-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <ul class="align-right urlbar-ul">
+                {% for link in site.data.url %}
+		            <li class="align-right url-list"><a href="{{ link.url }}">{{ link.title }}</a>
+			             {% if forloop.first != true %}
+				             |
+			             {% endif %}
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</header>
