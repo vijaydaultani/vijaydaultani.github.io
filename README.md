@@ -1,4 +1,4 @@
-# Hi! This is be my personal website, made using [Jekyll](https://github.com/jekyll/jekyll)
+Hi! This is be my personal website, made using [Jekyll](https://github.com/jekyll/jekyll)
 
 <hr>
 
