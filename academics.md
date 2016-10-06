@@ -12,12 +12,12 @@ layout: default
 
 * **Truba College of Engineering and Technology (TCET) Indore, India**   
   Bachelor of Engineering in Computer Science, June 2010   
-  Percentage : 80.03 out of 100. (Rank: 2 out of 90)    
-  Advisor : [Prof. Ritu Tandon](http://www.trubainstitute.ac.in/GROUP-OF-INSTITUTIONS/tcet_new/info.php?show=351)
+  Percentage: 80.03 out of 100. (Rank: 2 out of 90)    
+  Advisor: [Asst. Prof. Ritu Tandon](http://www.trubainstitute.ac.in/GROUP-OF-INSTITUTIONS/tcet_new/info.php?show=351)
 
 * **N.G.Jain Higher Secondary School, India**   
   Higher secondary education, April 2005   
-  Percentage : 84.2
+  Percentage: 84.2
 
 ---
 
@@ -46,7 +46,7 @@ layout: default
 ## Teaching
 
 * **IIT TA**
-1. CSL 332/632 : Introduction to Database Systems    
+1. CSL 332/632: Introduction to Database Systems    
    Responsible for evaluation of assignments, demonstration, viva, Evaluation of answer scripts and conducting labs.
 
 * **Mentor at Coursera**     
