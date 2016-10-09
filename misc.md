@@ -22,7 +22,7 @@ layout: default
   I learned a lot from [Coursera](https://www.coursera.org/), and endless efforts by the professors, mentors and course staff motivated me to give back same to the community. After seeing my consistent [performance](/academics), I was offered the position of mentor at one of Coursera course, namely [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) which I accepted and started volunteering as a mentor from September 2016.
 
 * **Hands on Tokyo**        
-  I sometimes find myself teaching English to kids from Children's home. The program SBI Children's wish Foundation English program is organized by [Hands on Tokyo](http://www.handsontokyo.org/). In case one is interested in volunteering the program, please apply [here](http://www.handsontokyo.org/en/about_us/_volunteer_leaders_needed).
+  I sometime find myself teaching English to kids from Children's home. The program SBI Children's wish Foundation English program is organized by [Hands on Tokyo](http://www.handsontokyo.org/). In case one is interested in volunteering the program, please apply [here](http://www.handsontokyo.org/en/about_us/_volunteer_leaders_needed).
 
 ---
 
