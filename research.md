@@ -29,12 +29,12 @@ layout: default
 
 * **Personal**
   1. **Data Visualization using Seaborn**          
-     I created a Notebook for exploration, visualization and analysis of datasets using python, pandas, matplotlib and seaborn.    
+     I created a Notebook for exploration, visualization and analysis of abalone datasets using python, pandas, matplotlib and seaborn.    
      Code: [here](https://github.com/vijaydaultani/specimen/blob/master/visualization/seaborn_abalone.ipynb)
   2. **Parallel Computation using MPI**      
   	As a course project for CSV 880: Special Module in Parallel Computation, I implemented following two assignments.      
   	• Assignment 1: Averaging based computations on a matrix using block-cyclic distribution.       
-  	• Assignment 2: Coming soon     
+  	• Assignment 2: Broadcasting on a 2D Torus using a single spanning tree.    
      Code : [here](https://github.com/vijaydaultani/CSV880)
   3. **Pintos**  
   	Pintos is a simple instructional operating system framework for the 80x86 processor architecture from Stanford University. As a course project for Resource management in Computer Science I implemented following modules in the framework of Pintos       
