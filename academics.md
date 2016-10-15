@@ -46,8 +46,10 @@ layout: default
 ## Teaching
 
 * **IIT TA**
-1. CSL 332/632: Introduction to Database Systems    
-   Responsible for evaluation of assignments, demonstration, viva, Evaluation of answer scripts and conducting labs.
+Responsible for some tasks like evaluation of assignments, demonstration, viva, evaluation of answer scripts and conducting labs.
+1. CSL 201: Data Strucutres.
+2. CSL 861: Special Topics in Hardware Systems.
+3. CSL 332/632: Introduction to Database Systems.    
 
 * **Mentor at Coursera**     
 	I completed the prerequisite training, earned the certificate for course Coursera Mentor Community and Training Course. You can find certificate [here](https://www.coursera.org/account/accomplishments/records/8CXZFB7WB3UY). After completing the training, I am volunteering as a Mentor for this [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) course on Coursera.
