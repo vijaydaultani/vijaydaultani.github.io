@@ -34,6 +34,7 @@ layout: default
 2. [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/NUTHF5J6Q55J)
 3. [Machine Learning: Regression](https://www.coursera.org/account/accomplishments/records/8UYPWVFQNSCE)
 4. [Machine Learning: Classification](https://www.coursera.org/account/accomplishments/records/CFTSKBGS2TG3)
+4. [Machine Learning: Clustering & Retrieval](https://www.coursera.org/account/accomplishments/records/RQF6D3UCPDF6)
 
 * **Others** 
 1. [CSL 630: Advance Data Strucutres](http://www.cse.iitd.ernet.in/~ssen/csl630/admin630.html)
