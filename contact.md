@@ -14,9 +14,9 @@ need_footer: true
 
 ## Mailing Address
 
-Vijay Daultani,
-Rakuten Crimson House,
-1-14-1 Tamagawa, Setagaya-ku, Tokyo
+Vijay Daultani,    
+Rakuten Crimson House,    
+1-14-1 Tamagawa, Setagaya-ku, Tokyo    
 158-0094, Japan    
 
 ---

@@ -10,9 +10,12 @@ layout: default
   Abstract: [here](http://tsys.jp/sasimi/2016/program/program_abst.html#R1-15)
 
 * **Patents**
-  1. Vijay Daultani (NEC), **Information processing apparatus, information processing method and storage medium storing program**, Filed: June 2016, Application No: PCT/JP2016/002686.
-  2. Vijay Daultani (NEC), **Information processing method and device for neural network**, Filed: June 2016, Application No:PCT/JP2016/068741.
-  3. Vijay Daultani (NEC), **Improved sparse convolutional neural network**, Filed: Nov 2016, Application No: 3300001559/WO01.
+  1. Vijay Daultani (NEC), **Information processing apparatus, information processing method and storage medium storing program**.    
+     Filed: June 2016, Application No: PCT/JP2016/002686.
+  2. Vijay Daultani (NEC), **Information processing method and device for neural network**.    
+     Filed: June 2016, Application No:PCT/JP2016/068741.
+  3. Vijay Daultani (NEC), **Improved sparse convolutional neural network**.    
+     Filed: Nov 2016, Application No: 3300001559/WO01.
 
 ---
 
@@ -30,7 +33,7 @@ layout: default
 
 * **Personal**
   1. **Data Visualization using Seaborn**          
-     I created a Notebook for exploration, visualization and analysis of abalone datasets using python, pandas, matplotlib and seaborn.    
+     I created a Notebook for exploration, visualization and analysis of abalone datasets using python, pandas, matplotlib and seaborn.
      Code: [here](https://github.com/vijaydaultani/specimen/blob/master/visualization/seaborn_abalone.ipynb)
   2. **Parallel Computation using MPI**      
   	As a course project for CSV 880: Special Module in Parallel Computation, I implemented following two assignments.      
