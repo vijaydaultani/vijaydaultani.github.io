@@ -10,8 +10,9 @@ layout: default
   Abstract: [here](http://tsys.jp/sasimi/2016/program/program_abst.html#R1-15)
 
 * **Patents**
-  1. Patent No. 1: Coming soon
-  2. Patent No. 2: Coming soon
+  1. Vijay Daultani (NEC), **Information processing apparatus, information processing method and storage medium storing program**, Filed: June 2016, Application No: PCT/JP2016/002686.
+  2. Vijay Daultani (NEC), **Information processing method and device for neural network**, Filed: June 2016, Application No:PCT/JP2016/068741.
+  3. Vijay Daultani (NEC), **Improved sparse convolutional neural network**, Filed: Nov 2016, Application No: 3300001559/WO01.
 
 ---
 
@@ -19,7 +20,7 @@ layout: default
 
 * **Professional**
   1. **Convolutional Neural Networks**      
-    Experimenting deep learning convolutional neural network on NEC's SX super computer architecture, inventing ways for optimal hardware utilization for acceleration. Researching new algorithms for convolutional operation of CNN.
+    Experimenting convolutional neural network on NEC's SX super computer architecture, inventing ways for optimal hardware utilization for acceleration. Researching new algorithms for convolutional operation of CNN.
   2. **Instruction Selection in Compiler**     
   	Invented a new technique for optimal instruction selection of a compiler and filed a patent for it.
   3. **Biometrics**     

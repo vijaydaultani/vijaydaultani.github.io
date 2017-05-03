@@ -8,16 +8,16 @@ need_footer: true
 * **Personal Mail**    
 [vijay [dot] daultani [at] gmail [dot] com](mailto:vijay.daultani@gmail.com)    
 * **Office Mail**    
-[v-daultani [at] ax [dot] jp [dot] nec [dot] com](mailto:v-daultani@ax.jp.nec.com)
+[vijay.daultani [at] rakuten [dot] com](mailto:vijay.daultani@rakuten.com)
 
 ---
 
 ## Mailing Address
 
-Vijay Daultani,    
-1753, Shimonumabe, Nakahra-ku,     
-Kawasaki, Kanagawa,      
-211-8666, Japan    
+Vijay Daultani,
+Rakuten Crimson House,
+1-14-1 Tamagawa, Setagaya-ku, Tokyo
+158-0094, Japan    
 
 ---
 
