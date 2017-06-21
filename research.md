@@ -8,6 +8,10 @@ layout: default
 * **Papers**
   1. Vijay Daultani, Subhajit Chaudhury, Ishizaka Kazuhisa, **Convolutional Neural Network Layer Reordering for Acceleration**, Synthesis And System Integration of Mixed Information, SASIMI 2016.     
   Abstract: [here](http://tsys.jp/sasimi/2016/program/program_abst.html#R1-15)
+  2. Vijay Daultani, Ohno Yoshiyuki, Ishizaka Kazuhisa, **Sparse Direct Convolutional Neural Network**,  International Symposium on Neural Networks, ISNN 2017.     
+  Abstract: [here](https://link.springer.com/chapter/10.1007/978-3-319-59072-1_35)
+  Download PDF: [here](https://link.springer.com/content/pdf/10.1007%2F978-3-319-59072-1_35.pdf)
+
 
 * **Patents**
   1. Vijay Daultani (NEC), **Information processing apparatus, information processing method and storage medium storing program**.    
