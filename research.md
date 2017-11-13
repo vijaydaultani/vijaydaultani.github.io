@@ -23,7 +23,7 @@ layout: default
 
 
 * **Presentations**
-  1. Vijay Daultani (NEC), **Recurrent Neural Networks.**.
+  1. Vijay Daultani (NEC), **Recurrent Neural Networks.**.     
   Download PDF: [here](/assets/docs/presentation_rtc.pdf)
   Date : Oct 2017.
 
