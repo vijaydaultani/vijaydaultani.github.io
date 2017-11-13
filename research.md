@@ -21,6 +21,12 @@ layout: default
   3. Vijay Daultani (NEC), **Improved sparse convolutional neural network**.    
      Filed: Nov 2016, Application No: 3300001559/WO01.
 
+
+* **Presentations**
+  1. Vijay Daultani (NEC), **Recurrent Neural Networks.**.
+  Download PDF: [here](/assets/docs/presentation_rtc.pdf)
+  Date : Oct 2017.
+
 ---
 
 ## Research Projects
