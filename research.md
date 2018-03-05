@@ -16,8 +16,10 @@ layout: default
 * **Patents**
   1. Vijay Daultani (NEC), **Information processing apparatus, information processing method and storage medium storing program**.    
      Filed: June 2016, Application No: PCT/JP2016/002686.
-  2. Vijay Daultani (NEC), **Information processing method and device for neural network**.    
-     Filed: June 2016, Application No:PCT/JP2016/068741.
+     Documents: [here](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017208283&recNum=2&maxRec=2&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=FP%3A%28vijay+daultani%29&tab=FullText).
+  2. Vijay Daultani (NEC), **Information processing method and device for neural network**.
+     Filed: June 2016, Application No: PCT/JP2016/068741.
+     Documents: [here](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017216976&recNum=1&maxRec=2&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=FP%3A%28vijay+daultani%29&tab=PCTDescription).
   3. Vijay Daultani (NEC), **Improved sparse convolutional neural network**.    
      Filed: Nov 2016, Application No: 3300001559/WO01.
 
@@ -25,7 +27,8 @@ layout: default
 * **Presentations**
   1. Vijay Daultani (NEC), **Recurrent Neural Networks.**.     
   Download PDF: [here](/assets/docs/presentation_rtc.pdf)
-  Date : Oct 2017.
+  Video: [here](https://www.youtube.com/watch?v=fWy6HN2jK1U&t=11s)
+  Date: Oct 2017.
 
 ---
 
@@ -49,7 +52,7 @@ layout: default
   	As a course project for CSV 880: Special Module in Parallel Computation, I implemented following two assignments.      
   	• Assignment 1: Averaging based computations on a matrix using block-cyclic distribution.       
   	• Assignment 2: Broadcasting on a 2D Torus using a single spanning tree.    
-     Code : [here](https://github.com/vijaydaultani/CSV880)
+     Code: [here](https://github.com/vijaydaultani/CSV880)
   3. **Pintos**  
   	Pintos is a simple instructional operating system framework for the 80x86 processor architecture from Stanford University. As a course project for Resource management in Computer Science I implemented following modules in the framework of Pintos       
 	• Loading and running user programs.     

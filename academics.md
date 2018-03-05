@@ -34,10 +34,14 @@ layout: default
 2. [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/NUTHF5J6Q55J)
 3. [Machine Learning: Regression](https://www.coursera.org/account/accomplishments/records/8UYPWVFQNSCE)
 4. [Machine Learning: Classification](https://www.coursera.org/account/accomplishments/records/CFTSKBGS2TG3)
-4. [Machine Learning: Clustering & Retrieval](https://www.coursera.org/account/accomplishments/records/RQF6D3UCPDF6)
+5. [Machine Learning: Clustering & Retrieval](https://www.coursera.org/account/accomplishments/records/RQF6D3UCPDF6)
+6. [Machine Learning: Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/64GD5NQ9SFPX)
+7. [Neural Networks for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/WWYDCWX8LCBQ)
+8. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/BCQ2VKCBS2Q3)
+
 
 * **Others** 
-1. [CSL 630: Advance Data Strucutres](http://www.cse.iitd.ernet.in/~ssen/csl630/admin630.html)
+1. [CSL 630: Advance Data Structures](http://www.cse.iitd.ernet.in/~ssen/csl630/admin630.html)
 2. [CSL 765: Introduction to Logic](http://www.cse.iitd.ac.in/cse/newcurriculum-contents/newcourses.html#COV765)
 3. [CSL 771: Database Implementations](http://www.cse.iitd.ernet.in/~skg/MCourses.html)
 4. [MAP 706: Scientific System Laboratory]()
@@ -48,7 +52,7 @@ layout: default
 
 * **IIT TA**     
 	Responsible for some tasks like evaluation of assignments, demonstration, viva, evaluation of answer scripts and conducting labs.
-1. CSL 201: Data Strucutres.
+1. CSL 201: Data Structures.
 2. CSL 861: Special Topics in Hardware Systems.
 3. CSL 332/632: Introduction to Database Systems.    
 
