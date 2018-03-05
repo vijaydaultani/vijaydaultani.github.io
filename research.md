@@ -15,10 +15,10 @@ layout: default
 
 * **Patents**
   1. Vijay Daultani (NEC), **Information processing apparatus, information processing method and storage medium storing program**.    
-     Filed: June 2016, Application No: PCT/JP2016/002686.
+     Filed: June 2016, Application No: PCT/JP2016/002686.   
      Documents: [here](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017208283&recNum=2&maxRec=2&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=FP%3A%28vijay+daultani%29&tab=FullText).
   2. Vijay Daultani (NEC), **Information processing method and device for neural network**.
-     Filed: June 2016, Application No: PCT/JP2016/068741.
+     Filed: June 2016, Application No: PCT/JP2016/068741.    
      Documents: [here](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017216976&recNum=1&maxRec=2&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=FP%3A%28vijay+daultani%29&tab=PCTDescription).
   3. Vijay Daultani (NEC), **Improved sparse convolutional neural network**.    
      Filed: Nov 2016, Application No: 3300001559/WO01.
@@ -26,8 +26,8 @@ layout: default
 
 * **Presentations**
   1. Vijay Daultani (NEC), **Recurrent Neural Networks.**.     
-  Download PDF: [here](/assets/docs/presentation_rtc.pdf)
-  Video: [here](https://www.youtube.com/watch?v=fWy6HN2jK1U&t=11s)
+  Download PDF: [here](/assets/docs/presentation_rtc.pdf)    
+  Video: [here](https://www.youtube.com/watch?v=fWy6HN2jK1U&t=11s)    
   Date: Oct 2017.
 
 ---
