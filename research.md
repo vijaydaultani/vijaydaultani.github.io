@@ -26,7 +26,7 @@ layout: default
 
 * **Presentations**
   1. Vijay Daultani, **Association Rules**.  
-  Download Presentation: [here](/assets/association_rules_presentation.html)     
+  Download Presentation: [here](/assets/docs/association_rules_presentation.html#frame1323)     
   Note: Presentation is made using Sozi and Inkscape.    
   Date: March 2017.
   2. Vijay Daultani (Rakuten), **Recurrent Neural Networks**.     
