@@ -25,8 +25,12 @@ layout: default
 
 
 * **Presentations**
-  1. Vijay Daultani (NEC), **Recurrent Neural Networks.**.     
-  Download PDF: [here](/assets/docs/presentation_rtc.pdf)    
+  1. Vijay Daultani, **Association Rules**.  
+  Download Presentation: [here](/assets/association_rules_presentation.html)     
+  Note: Presentation is made using Sozi and Inkscape.    
+  Date: March 2017.
+  2. Vijay Daultani (Rakuten), **Recurrent Neural Networks**.     
+  Download Presentation: [here](/assets/docs/presentation_rtc.pdf)    
   Video: [here](https://www.youtube.com/watch?v=fWy6HN2jK1U&t=11s)    
   Date: Oct 2017.
 
