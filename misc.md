@@ -9,7 +9,7 @@ layout: default
   Unofficial list of results is maintained [here](https://www.facebook.com/permalink.php?story_fbid=350369668379477&id=161398677276578&stream_ref=5).
 
 * **BEL**     
-  [Bharat Electronics Limited](http://bel-india.com/) is an Indian state-owned aerospace and defense company. BEL conducts all-India entrance examination for recruiting candidates. I appeared in the entrance examination in 2011 and [cleared](http://specialtest.in/bel2011/BEL2011IntList.PDF) the written test of examination.
+  [Bharat Electronics Limited](http://bel-india.com/) is an Indian state-owned aerospace and defence company. BEL conducts all-India entrance examination for recruiting candidates. I appeared in the entrance examination in 2011 and [cleared](http://specialtest.in/bel2011/BEL2011IntList.PDF) the written test of examination.
 
 * **Undergraduate**    
   Overall rank 2 out of 90 students in CSE department during my undergraduate studies at [TCET](http://www.trubainstitute.ac.in/GROUP-OF-INSTITUTIONS/tcet_new). I secured Rank 1 in the department for 3 out of 8 semesters of my engineering.
@@ -22,14 +22,24 @@ layout: default
   I learned a lot from [Coursera](https://www.coursera.org/), and endless efforts by the professors, mentors and course staff motivated me to give back same to the community. After seeing my consistent [performance](/academics), I was offered the position of mentor at one of Coursera course, namely [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression), which I accepted and started volunteering as a mentor from September 2016.
 
 * **Hands on Tokyo**        
-  I sometimes find myself teaching English to kids from Children's home. The program SBI Children's wish Foundation English program is organized by [Hands on Tokyo](http://www.handsontokyo.org/). In case one is interested in volunteering the program, please apply [here](http://www.handsontokyo.org/en/about_us/_volunteer_leaders_needed).
+  I always wanted to give something back to the community and therefore I have been an active member of NGO named [Hands on Tokyo](http://www.handsontokyo.org/). Following are some of the programs/projects I have been part of :
+  * English Conversation Program by SBI Children's Hope Foundation.
+	  * Teaching English to children from children's home.
+  * Basketball Basic/Intermediate
+	  * Playing basketball with young athletes with intellectual disabilities [Preparing for National Special Olympics Team]
+  * Bowling 
+	  * Playing bowling with young adults with intellectual disabilities [Preparing for National Special Olympics Team]
+  * Koko Club 
+	  * English Conversation with visual impairment
+
+  In case one is interested in volunteering the program, please apply [here](http://www.handsontokyo.org/en/about_us/_volunteer_leaders_needed).
 
 ---
 
 ## Fun Facts
 
 * **Rubik Cube**    
-  I was once into solving Rubik cube and people use to find one in my hand almost whereever I went. Sounds from my Rubik cube practices have spoiled a countless nights of my accommodating room-mate from hostel in IIT Delhi, [Niranjan Viladkar](https://sites.google.com/site/niranjanviladkar/) for which I am Sorry to him. I once participated in Rubik cube competition organized by World Cube Association. My best was 1:28, maybe not very good, but was pretty awesome for me. You can find the results [here](https://www.worldcubeassociation.org/results/p.php?i=2014DAUL01).
+  I was once into solving Rubik cube and people use to find one in my hand almost wherever I went. Sounds from my Rubik cube practices have spoiled a countless nights of my accommodating room-mate from hostel in IIT Delhi, [Niranjan Viladkar](https://sites.google.com/site/niranjanviladkar/) for which I am Sorry to him. I once participated in Rubik cube competition organised by World Cube Association. My best was 1:28, maybe not very good, but was pretty awesome for me. You can find the results [here](https://www.worldcubeassociation.org/results/p.php?i=2014DAUL01).
 
 ---
 

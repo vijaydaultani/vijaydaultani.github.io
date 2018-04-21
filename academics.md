@@ -35,7 +35,7 @@ layout: default
 3. [Machine Learning: Regression](https://www.coursera.org/account/accomplishments/records/8UYPWVFQNSCE)
 4. [Machine Learning: Classification](https://www.coursera.org/account/accomplishments/records/CFTSKBGS2TG3)
 5. [Machine Learning: Clustering & Retrieval](https://www.coursera.org/account/accomplishments/records/RQF6D3UCPDF6)
-6. [Machine Learning: Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/64GD5NQ9SFPX)
+6. [Machine Learning: Specialisation](https://www.coursera.org/account/accomplishments/specialization/certificate/64GD5NQ9SFPX)
 7. [Neural Networks for Machine Learning](https://www.coursera.org/account/accomplishments/certificate/WWYDCWX8LCBQ)
 8. [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/BCQ2VKCBS2Q3)
 
