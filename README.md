@@ -30,7 +30,7 @@ You can contact/get in touch with me on following social media.
 * Setting up your GitHub Pages site locally with Jekyll : [Github Help]
 
 ## License
-See the [LICENSE] file
+See the [LICENSE][] file
 
 [Jekyll]: https://github.com/jekyll/jekyll
 [SVG Icons]: https://github.com/neilorangepeel/Free-Social-Icons

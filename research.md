@@ -21,7 +21,8 @@ layout: default
      Filed: June 2016, Application No: PCT/JP2016/068741.    
      Documents: [here](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017216976&recNum=1&maxRec=2&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=FP%3A%28vijay+daultani%29&tab=PCTDescription).
   3. Vijay Daultani (NEC), **Improved sparse convolutional neural network**.    
-     Filed: Nov 2016, Application No: 3300001559/WO01.
+     Filed: Nov 2016, Application No: PCT/JP2016/081973.    
+     Documents: [here](yhttps://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2018073975&recNum=1&office=&queryString=FP%3A%28vijay+daultani%29&prevFilter=&sortOption=Pub+Date+Desc&maxRec=3).
 
 
 * **Presentations**
