@@ -3,33 +3,60 @@ layout: default
 ---
 
 
-## Publications
+## 📚 Publications
 
 * **Papers**
-  1. Vijay Daultani, Subhajit Chaudhury, Ishizaka Kazuhisa, **Convolutional Neural Network Layer Reordering for Acceleration**, Synthesis And System Integration of Mixed Information, SASIMI 2016.     
-  Abstract: [here](http://tsys.jp/sasimi/2016/program/program_abst.html#R1-15)
-  2. Vijay Daultani, Ohno Yoshiyuki, Ishizaka Kazuhisa, **Sparse Direct Convolutional Neural Network**,  International Symposium on Neural Networks, ISNN 2017.     
-  Abstract: [here](https://link.springer.com/chapter/10.1007/978-3-319-59072-1_35)    
-  Download PDF: [here](https://link.springer.com/content/pdf/10.1007%2F978-3-319-59072-1_35.pdf)
+  1. Vijay Daultani, Hector Javier Vazquez Martinez, Naoaki Okazaki, **Acceptability Evaluation of Naturally Written Sentences**, IPSJ Transactions on Databases (IPSJ TOD), 2024.  
+  [DOI](https://www.jstage.jst.go.jp/article/ipsjjip/32/0/32_652/_article)
 
+  2. Vijay Daultani, Naoaki Okazaki, **Improving Automatic Evaluation of Acceptability Based on Language Models with a Coarse Sentence Representation**, Pacific Asia Conference on Language, Information and Computation (PACLIC), 2022.  
+  [URL](https://aclanthology.org/2022.paclic-1.13/)
 
-* **Patents**
-  1. Vijay Daultani (NEC), **Information processing apparatus, information processing method and storage medium storing program**.    
-     Filed: June 2016, Application No: PCT/JP2016/002686.   
-     Documents: [here](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017208283&recNum=2&maxRec=2&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=FP%3A%28vijay+daultani%29&tab=FullText).
-  2. Vijay Daultani (NEC), **Information processing method and device for neural network**.   
-     Filed: June 2016, Application No: PCT/JP2016/068741.    
-     Documents: [here](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2017216976&recNum=1&maxRec=2&office=&prevFilter=&sortOption=Pub+Date+Desc&queryString=FP%3A%28vijay+daultani%29&tab=PCTDescription).
-  3. Vijay Daultani (NEC), **Improved sparse convolutional neural network**.    
-     Filed: Nov 2016, Application No: PCT/JP2016/081973.    
-     Documents: [here](yhttps://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2018073975&recNum=1&office=&queryString=FP%3A%28vijay+daultani%29&prevFilter=&sortOption=Pub+Date+Desc&maxRec=3).
+  3. Jeremiah Anderson, Vijay Daultani, Tariq Muman, Mohamed Batran, **The Importance of Weather to E-Commerce Orders Forecasting**, IEEE International Conference on E-Business Engineering (EBEE), 2019.  
+  [DOI](https://dl.acm.org/doi/10.1145/3385061.3385064)
 
+  4. Vijay Daultani, Lasguido Nio, Young-Joo Chung, **Unsupervised Extractive Summarization for Product Description using Coverage Maximization with Attribute Concept**, IEEE International Conference on Semantic Computing (ICSC), 2019.  
+  [DOI](https://ieeexplore.ieee.org/document/8665503)
 
-* **Presentations**
+  5. Vijay Daultani, Ohno Yoshiyuki, Ishizaka Kazuhisa, **Sparse Direct Convolutional Neural Network**, International Symposium on Neural Networks (ISNN), 2017.  
+  [DOI](https://doi.org/10.1007/978-3-319-59072-1_35)
+  [URL](https://link.springer.com/chapter/10.1007/978-3-319-59072-1_35)  
+
+  6. Vijay Daultani, Subhajit Chaudhury, Ishizaka Kazuhisa, **Convolutional Neural Network Layer Reordering for Acceleration**, Synthesis And System Integration of Mixed Information Technologies (SASIMI), 2016.  
+  [URL](https://tsys.jp/sasimi/2016/program/program_abst.html#R1-15)
+
+* **Patents**  
+  1. Vijay Daultani (NEC), **Information Processing Apparatus, Information Processing Method and Storage Medium Storing Program**  
+    Filed: February 2016, Application No: PCT/JP2016/002686  
+    View Patent: [here](https://patents.google.com/patent/WO2017208283A1)
+
+  2. Vijay Daultani (NEC), **Information Processing Method and Device for Neural Network**  
+    Filed: June 2016, Application No: PCT/JP2016/068741  
+    View Patent: [here](https://patents.google.com/patent/WO2017216976A1)
+
+  3. Vijay Daultani (NEC), **Improved Sparse Convolutional Neural Network**  
+    Filed: October 2016, Application No: PCT/JP2016/081973  
+    View Patent: [here](https://patents.google.com/patent/WO2018073975A1)
+
+  4. Robin Swezey, Jing Mi, Vijay Daultani (Rakuten), **Information Processing System, Information Processing Method, and Program**  
+    Filed: 2018, Patent No: WO/2020/031232  
+    View Patent: [here](https://patents.google.com/patent/US11487835B2/en)
+
+  5. Vijay Daultani (Rakuten), **Search System, Search Method, and Program**  
+    Filed: 2018, Patent No: WO/2019/176102  
+    View Patent: [here](https://patents.google.com/patent/US20210056149A1/en)
+
+  6. Vijay Daultani, Lasguido Nio, Youngjoo Chung (Rakuten), **Summary Generating Device, Summary Generating Method, and Information Storage Medium**  
+    Filed: 2019, Patent No: US/2020/0134011  
+    View Patent: [here](https://patents.google.com/patent/US20200134011A1)
+
+## 🎤 Presentations
+
   1. Vijay Daultani, **Association Rules**.  
   Download Presentation: [here](/assets/docs/association_rules_presentation.html#frame1323)     
   Note: Presentation is made using Sozi and Inkscape.    
   Date: March 2017.
+
   2. Vijay Daultani (Rakuten), **Recurrent Neural Networks**.     
   Download Presentation: [here](/assets/docs/presentation_rtc.pdf)    
   Video: [here](https://www.youtube.com/watch?v=fWy6HN2jK1U&t=11s)    
@@ -37,35 +64,28 @@ layout: default
 
 ---
 
-## Research Projects
+## 🔬 Personal Research Projects
 
-* **Professional**
-  1. **Convolutional Neural Networks**      
-    Experimenting convolutional neural network on NEC's SX super computer architecture, inventing ways for optimal hardware utilisation for acceleration. Researching new algorithms for convolutional operation of CNN.
-  2. **Instruction Selection in Compiler**     
-  	Invented a new technique for optimal instruction selection of a compiler and filed a patent for it.
-  3. **Biometrics**     
-    Profiled, analysed biometrics application, modified data structures and proposed algorithms to suite and accelerate on underlying hardware architecture.     
-  4. **Elevator Advisory**     
-    Giving a optimal advice to the users whether to choose the conventional elevator system or stair case or escalator, by calculating and comparing the service time for each transportation medium like elevator, and staircase. 
+1. **Data Visualization using Seaborn**          
+    I created a Notebook for exploration, visualisation and analysis of abalone datasets using python, pandas, matplotlib and seaborn.    
+    Code: [here](https://github.com/vijaydaultani/specimen/blob/master/visualization/seaborn_abalone.ipynb)
 
-* **Personal**
-  1. **Data Visualization using Seaborn**          
-     I created a Notebook for exploration, visualisation and analysis of abalone datasets using python, pandas, matplotlib and seaborn.    
-     Code: [here](https://github.com/vijaydaultani/specimen/blob/master/visualization/seaborn_abalone.ipynb)
-  2. **Parallel Computation using MPI**      
-  	As a course project for CSV 880: Special Module in Parallel Computation, I implemented following two assignments.      
-  	• Assignment 1: Averaging based computations on a matrix using block-cyclic distribution.       
-  	• Assignment 2: Broadcasting on a 2D Torus using a single spanning tree.    
-     Code: [here](https://github.com/vijaydaultani/CSV880)
-  3. **Pintos**  
-  	Pintos is a simple instructional operating system framework for the 80x86 processor architecture from Stanford University. As a course project for Resource management in Computer Science I implemented following modules in the framework of Pintos       
-	• Loading and running user programs.     
-	• Virtual Memory management.    
-	• File system.    
-  4. **CGRA**    
-    Use LLVM to compile the computation intensive kernels in C into assembly code. A parser to 	identify data dependencies then parses the intermediate representation of code generated by LLVM and a DAG representing the data dependency is constructed. After which Instruction Legalisation, Scheduling and Mapping on CGRA is performed.    
+2. **Parallel Computation using MPI**      
+  As a course project for CSV 880: Special Module in Parallel Computation, I implemented following two assignments.      
+  • Assignment 1: Averaging based computations on a matrix using block-cyclic distribution.       
+  • Assignment 2: Broadcasting on a 2D Torus using a single spanning tree.    
     Code: [here](https://github.com/vijaydaultani/CSV880)
-  5. **NUCA**     
-  	Analysed energy breakdown of Static and Dynamic Non-Uniform Cache Access (NUCA). I measured the power consumption and collected heat generation patterns of NUCA architecture. Also interpreted inter banks link data access patterns.    
-  	Presentation: [here](https://github.com/vijaydaultani/nuca)
+
+3. **Pintos**  
+  Pintos is a simple instructional operating system framework for the 80x86 processor architecture from Stanford University. As a course project for Resource management in Computer Science I implemented following modules in the framework of Pintos       
+• Loading and running user programs.     
+• Virtual Memory management.    
+• File system.    
+
+4. **CGRA**    
+  Use LLVM to compile the computation intensive kernels in C into assembly code. A parser to 	identify data dependencies then parses the intermediate representation of code generated by LLVM and a DAG representing the data dependency is constructed. After which Instruction Legalisation, Scheduling and Mapping on CGRA is performed.    
+  Code: [here](https://github.com/vijaydaultani/CSV880)
+
+5. **NUCA**     
+  Analysed energy breakdown of Static and Dynamic Non-Uniform Cache Access (NUCA). I measured the power consumption and collected heat generation patterns of NUCA architecture. Also interpreted inter banks link data access patterns.    
+  Presentation: [here](https://github.com/vijaydaultani/nuca)

@@ -2,48 +2,67 @@
 layout: default
 ---
 
-## Ranks and Test Scores    
+## 🎓 Ranks & Test Scores  
+* **TOEFL iBT (2020)**  
+  Score: **110 / 120**
 
-* **GATE**      
-  [Graduate Aptitude Test in Engineering](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) is an all-India examination being conducted jointly by the Indian Institute of Science and seven Indian Institutes of Technology. I appeared for this examination in 2012 and landed All India Rank of 242 out of 156780 with a percentile of 99.84.
-  Unofficial list of results is maintained [here](https://www.facebook.com/permalink.php?story_fbid=350369668379477&id=161398677276578&stream_ref=5).
+* **TOEIC (2014)**  
+  Score: **985 / 990**
 
-* **BEL**     
-  [Bharat Electronics Limited](http://bel-india.com/) is an Indian state-owned aerospace and defence company. BEL conducts all-India entrance examination for recruiting candidates. I appeared in the entrance examination in 2011 and [cleared](http://specialtest.in/bel2011/BEL2011IntList.PDF) the written test of examination.
+* **GATE Computer Science (2012)**      
+  All India Rank: **242 / 156,780** (Percentile: **99.84**)  
 
-* **Undergraduate**    
-  Overall rank 2 out of 90 students in CSE department during my undergraduate studies at [TCET](http://www.trubainstitute.ac.in/GROUP-OF-INSTITUTIONS/tcet_new). I secured Rank 1 in the department for 3 out of 8 semesters of my engineering.
+* **BEL (2011)**  
+  Cleared the written test for recruitment at Bharat Electronics Limited - [Result PDF](http://specialtest.in/bel2011/BEL2011IntList.PDF)
+
+* **Undergraduate Academic Rank (2010)**  
+  Achieved **Rank 1** in 3 / 8 semesters.   
+  Secured **2 / 90** students in the department.   
+  
+---
+
+## 🤝 Volunteer Experience
+
+### **Coursera Mentor**  
+- Volunteering as a mentor for the course [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression) since September 2016.
+- Responsibilities: guiding learners, answering questions on discussion forums, encouraging peer learning.
+
+### **Hands on Tokyo (NGO)**  
+Active volunteer for inclusive education and sports initiatives in Tokyo.  
+Some programs I’ve participated in:
+- **English Conversation Program** – Teaching English to children from a children's home (with SBI Children’s Hope Foundation).
+- **Basketball** – Played with youth preparing for Special Olympics (intellectual disabilities).
+- **Bowling** – Supporting athletes with intellectual disabilities.
+- **Koko Club** – English conversations with visually impaired community members.  
+
+Interested in joining? Apply [here](http://www.handsontokyo.org/en/about_us/_volunteer_leaders_needed).
+
+---
+## 🎲 Fun Facts
+
+- **Rubik’s Cube Enthusiast**  
+  Had a serious Rubik’s Cube phase during my time at IIT Delhi—my cube went everywhere with me (probably to the annoyance of my roommate, [Niranjan Viladkar](https://sites.google.com/site/niranjanviladkar/).  
+  Participated in a WCA competition with a best solve of **1:28** in 2014.  
+  [My competition results](https://www.worldcubeassociation.org/results/p.php?i=2014DAUL01)
 
 ---
 
-## Volunteer
+## 📰 Media Mentions
 
-* **Mentor at Coursera**    
-  I learned a lot from [Coursera](https://www.coursera.org/), and endless efforts by the professors, mentors and course staff motivated me to give back same to the community. After seeing my consistent [performance](/academics), I was offered the position of mentor at one of Coursera course, namely [Machine Learning: Regression](https://www.coursera.org/learn/ml-regression), which I accepted and started volunteering as a mentor from September 2016.
+- **Nikkei AI Summit (2019)**  
+  Invited as a **panelist** for a group discussion titled *“Machines That Speak Our Language: Real Conversations in Science Fiction Scenarios.”*  
+  [Event Details](https://eventregist.com/e/aisum)
 
-* **Hands on Tokyo**        
-  I always wanted to give something back to the community and therefore I have been an active member of NGO named [Hands on Tokyo](http://www.handsontokyo.org/). Following are some of the programs/projects I have been part of :
-  * English Conversation Program by SBI Children's Hope Foundation.
-	  * Teaching English to children from children's home.
-  * Basketball Basic/Intermediate
-	  * Playing basketball with young athletes with intellectual disabilities [Preparing for National Special Olympics Team]
-  * Bowling 
-	  * Playing bowling with young adults with intellectual disabilities [Preparing for National Special Olympics Team]
-  * Koko Club 
-	  * English Conversation with visual impairment
+- **Rakuten Technology Conference (2018)**  
+  Delivered a talk on *“Imminent AI – Generative Adversarial Networks.”*  
+  [Watch on YouTube](https://www.youtube.com/watch?v=ructb42duVs)
 
-  In case one is interested in volunteering the program, please apply [here](http://www.handsontokyo.org/en/about_us/_volunteer_leaders_needed).
+- **Ministry of Economy, Trade and Industry (METI), Japan (2018)**  
+  Featured in an official [promotional video](https://www.youtube.com/watch?v=QZa4wcQgCDw) by METI to highlight Japan’s Highly-Skilled Professional Visa program and attract global talent.
 
----
+- **Rakuten Technology Conference (2017)**  
+  Presented on *“Recurrent Neural Networks and Their Applications.”*  
+  [Watch on YouTube](https://youtu.be/fWy6HN2jK1U?si=bTJxxx045AXzvTjs)  
 
-## Fun Facts
-
-* **Rubik Cube**    
-  I was once into solving Rubik cube and people use to find one in my hand almost wherever I went. Sounds from my Rubik cube practices have spoiled a countless nights of my accommodating room-mate from hostel in IIT Delhi, [Niranjan Viladkar](https://sites.google.com/site/niranjanviladkar/) for which I am Sorry to him. I once participated in Rubik cube competition organised by World Cube Association. My best was 1:28, maybe not very good, but was pretty awesome for me. You can find the results [here](https://www.worldcubeassociation.org/results/p.php?i=2014DAUL01).
-
----
-
-## Media
-
-* **Vidyalankar**     
-  I was the only student of Computer Science who was selected in IIT's from my coaching institute Vidyalankar in year 2012. You can find the advertisement [here](http://www.vidyalankar.org/file/gate/GATE-Pros.pdf), in case you can find me!
+- **Vidyalankar Coaching Institute (2012)**  
+  Featured in a [print advertisement](assets/docs/vidyalankar_gate_scores.pdf) by Vidyalankar, recognizing my achievement as the **only Computer Science student** from the institute selected into an IIT that year.
