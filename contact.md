@@ -3,22 +3,25 @@ layout: default
 need_footer: true
 ---
 
-## Email (best way to reach me):    
+## 📬 Contact Me
 
-* **Personal Mail**    
-[vijay [dot] daultani [at] gmail [dot] com](mailto:vijay.daultani@gmail.com)    
-* **Office Mail**    
-[vijay.daultani [at] rakuten [dot] com](mailto:vijay.daultani@rakuten.com)
+If you'd like to get in touch, just drop me a message below:
 
----
+<form action="https://formspree.io/f/xpwpkzda" method="POST">
+  <label for="name">Name</label><br>
+  <input type="text" name="name" id="name" required><br><br>
 
-## Mailing Address
+  <label for="email">Email</label><br>
+  <input type="email" name="email" id="email" required><br><br>
 
-Vijay Daultani,    
-Rakuten Crimson House,    
-1-14-1 Tamagawa, Setagaya-ku, Tokyo    
-158-0094, Japan    
+  <label for="message">Message</label><br>
+  <textarea name="message" id="message" rows="5" required></textarea><br><br>
+
+  <button type="submit">Send</button>
+</form>
 
 ---
 
 ## Social Media
+
+Feel free to connect with me on any of the platforms below — I’d love to hear from you!
