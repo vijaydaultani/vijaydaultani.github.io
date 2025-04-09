@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="dp" src="/assets/image/vijay.jpg">
+<img class="dp" src="/assets/image/vijay2.jpg">
 
 As of March 2024, I completed my PhD in Natural Language Processing under [Prof. Naoaki Okazaki](https://www.chokkan.org/) at the [Tokyo Institute of Technology](https://www.titech.ac.jp/english/), where my research focused on modeling linguistic acceptability using language models and coarse sentence representations.
 
