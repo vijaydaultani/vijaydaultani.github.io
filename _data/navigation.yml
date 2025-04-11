@@ -1,0 +1,14 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+    # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Home"
+    url: https://vijaydaultani.github.io/
+  - title: "Research"
+    url: /research/
+  - title: "Misc"
+    url: /Misc/
+  - title: "Curriculum Vitae"
+    url: /cv/
+  # - title: "Posts"
+  #   url: /posts/
