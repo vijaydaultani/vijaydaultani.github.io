@@ -39,19 +39,30 @@ My research focuses on enhancing the reliability and interpretability of languag
 
 
 ## Presentations
-  1. **Rakuten Technology Conference**  
-  Delivered a talk on *“Imminent AI – Generative Adversarial Networks.”*   
-  Date: Jan 2019   
+  1. **Bringing India at the Forefront of AI Research**   
+  Venue: Sage University   
+  Date: Apr. 16 2025   
+  [[Presentation]](/assets/docs/BRINGING_INDIA_TO_THE_FOREFRONT_OF_AI_SAGE_04_16_2025.pdf)
+  2. **Imminent AI – Generative Adversarial Networks**    
+  Venue: Rakuten Technology Conference   
+  Date: Nov. 9 2019    
   [[Video](https://www.youtube.com/watch?v=ructb42duVs)]
-  2. **Recurrent Neural Networks**: Vijay Daultani   
-  Date: Oct 2017   
+  3. **Recurrent Neural Networks**   
+  Venue: Rakuten Technology Conference   
+  Date: Oct. 28 2017   
   [[Presentation](/assets/docs/presentation_rtc.pdf)] [[Video](https://www.youtube.com/watch?v=fWy6HN2jK1U&t=11s)]
-  3. **Association Rules**: Vijay Daultani   
-  Note: Presentation is made using Sozi and Inkscape.    
+  4. **Association Rules** 
+  Venue: Internal Presentation at Rakuten
+  <!--Note: Presentation is made using Sozi and Inkscape.-->    
   Date: March 2017  
   [[Presentation](/assets/docs/association_rules_presentation.html#frame1323)]
   
-  
+
+## White Papers
+
+1. **Bringing India at the Forefront of AI Research**   
+[[Link]]((/assets/docs/BRINGING_INDIA_AT_THE_FOREFRONT_OF_AI_RESEARCH.pdf))
+
 ## Personal Research Projects
 
 1. **Data Visualization using Seaborn**          
