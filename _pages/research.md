@@ -61,7 +61,7 @@ My research focuses on enhancing the reliability and interpretability of languag
 ## White Papers
 
 1. **Bringing India at the Forefront of AI Research**   
-[[Link]]((/assets/docs/BRINGING_INDIA_AT_THE_FOREFRONT_OF_AI_RESEARCH.pdf))
+[[Link]](/assets/docs/Bringing_India_at_the_forefront_of_AI_Research_White_Paper.pdf)
 
 ## Personal Research Projects
 
