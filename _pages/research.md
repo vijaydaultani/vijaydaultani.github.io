@@ -39,10 +39,14 @@ My research focuses on enhancing the reliability and interpretability of languag
 
 
 ## Presentations
+  1. **From Engineering Students to AI Research Leaders: India's Path Forward**
+  Venue: Sage University
+  Date: Aug. 21 2025
+  [[Presentation]](/assets/docs/from_engineering_students_to_ai_research_leaders_india's_path_forward.pdf)
   1. **Bringing India at the Forefront of AI Research**   
   Venue: Sage University   
   Date: Apr. 16 2025   
-  [[Presentation]](/assets/docs/BRINGING_INDIA_TO_THE_FOREFRONT_OF_AI_SAGE_04_16_2025.pdf)
+  [[Presentation]](/assets/docs/bringing_india_to_the_forefront_of_ai_sage_04_16_2025.pdf)
   2. **Imminent AI – Generative Adversarial Networks**    
   Venue: Rakuten Technology Conference   
   Date: Nov. 9 2019    
