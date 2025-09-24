@@ -39,12 +39,12 @@ My research focuses on enhancing the reliability and interpretability of languag
 
 
 ## Presentations
-  1. **Bringing India to the Forefront of AI Research**
-  Venue: IEEE World Conference on Cutting Edge Science & Technology
-  Date: Sep. 25 2025   
+  1. **Bringing India to the Forefront of AI Research**   
+  Venue: IEEE World Conference on Cutting Edge Science & Technology   
+  Date: Sep. 25 2025      
   [[Presentation](/assets/docs/IEEE_WCCEST_Keynote_2025.pdf)] [[Website](https://sageuniversity.in/sage_events/wccest-25/)]
-  2. **From Engineering Students to AI Research Leaders: India's Path Forward**
-  Venue: Sage University
+  2. **From Engineering Students to AI Research Leaders: India's Path Forward**   
+  Venue: Sage University   
   Date: Aug. 20 2025   
   [[Presentation](/assets/docs/from_engineering_students_to_ai_research_leaders_india's_path_forward.pdf)]
   3. **Bringing India at the Forefront of AI Research**   
