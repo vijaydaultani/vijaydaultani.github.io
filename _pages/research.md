@@ -39,23 +39,27 @@ My research focuses on enhancing the reliability and interpretability of languag
 
 
 ## Presentations
-  1. **From Engineering Students to AI Research Leaders: India's Path Forward**
+  1. **Bringing India to the Forefront of AI Research**
+  Venue: IEEE World Conference on Cutting Edge Science & Technology
+  Date: Sep. 25 2025   
+  [[Presentation](/assets/docs/IEEE_WCCEST_Keynote_2025.pdf)] [[Website](https://sageuniversity.in/sage_events/wccest-25/)]
+  2. **From Engineering Students to AI Research Leaders: India's Path Forward**
   Venue: Sage University
-  Date: Aug. 21 2025
-  [[Presentation]](/assets/docs/from_engineering_students_to_ai_research_leaders_india's_path_forward.pdf)
-  1. **Bringing India at the Forefront of AI Research**   
+  Date: Aug. 20 2025   
+  [[Presentation](/assets/docs/from_engineering_students_to_ai_research_leaders_india's_path_forward.pdf)]
+  3. **Bringing India at the Forefront of AI Research**   
   Venue: Sage University   
   Date: Apr. 16 2025   
-  [[Presentation]](/assets/docs/bringing_india_to_the_forefront_of_ai_sage_04_16_2025.pdf)
-  2. **Imminent AI – Generative Adversarial Networks**    
+  [[Presentation](/assets/docs/bringing_india_to_the_forefront_of_ai_sage_04_16_2025.pdf)]
+  4. **Imminent AI – Generative Adversarial Networks**    
   Venue: Rakuten Technology Conference   
   Date: Nov. 9 2019    
   [[Video](https://www.youtube.com/watch?v=ructb42duVs)]
-  3. **Recurrent Neural Networks**   
+  5. **Recurrent Neural Networks**   
   Venue: Rakuten Technology Conference   
   Date: Oct. 28 2017   
   [[Presentation](/assets/docs/presentation_rtc.pdf)] [[Video](https://www.youtube.com/watch?v=fWy6HN2jK1U&t=11s)]
-  4. **Association Rules** 
+  6. **Association Rules** 
   Venue: Internal Presentation at Rakuten
   <!--Note: Presentation is made using Sozi and Inkscape.-->    
   Date: March 2017  
