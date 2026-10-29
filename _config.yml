@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vijay Daultani - CEO & Co-Founder, Neural Nurture"
-title_separator          : "-"
+title                    : "Vijay Daultani, CEO & Co-Founder of Neural Nurture"
+title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Vijay Daultani"
 description              : "Vijay Daultani is CEO & Co-Founder of Neural Nurture, an applied AI lab building NLP and computer-vision products. Ex-Rakuten, Amazon and NEC; PhD in NLP."

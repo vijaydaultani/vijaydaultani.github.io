@@ -24,18 +24,27 @@ My research focuses on enhancing the reliability and interpretability of languag
   [[URL](https://tsys.jp/sasimi/2016/program/program_abst.html#R1-15)]
 
 ## [Patents](https://patents.google.com/?inventor=VIJAY+DAULTANI)
-  1. **Summary Generating Device, Summary Generating Method, and Information Storage Medium**: <ins>Vijay Daultani</ins>, Lasguido Nio, Youngjoo Chung. Filed: 2019, Patent No: US/2020/0134011  
-    [[Link](https://patents.google.com/patent/US20200134011A1)]
-  2. **Search System, Search Method, and Program**: <ins>Vijay Daultani</ins>. Filed: 2018, Patent No: WO/2019/176102  
-    [[Link](https://patents.google.com/patent/US20210056149A1/en)]
-  3. **Information Processing System, Information Processing Method, and Program**: Robin Swezey, Jing Mi, <ins>Vijay Daultani</ins>. Filed: 2018, Patent No: WO/2020/031232  
-    [[Link](https://patents.google.com/patent/US11487835B2/en)]
-  4. **Improved Sparse Convolutional Neural Network**: <ins>Vijay Daultani</ins>. Filed: October 2016, Application No: PCT/JP2016/081973  
+Four inventions granted as six patents in the United States and Japan.
+
+### Granted
+  1. **Information Processing System, Information Processing Method, and Program**: Robin Swezey, Jing Mi, <ins>Vijay Daultani</ins>. Assignee: Rakuten Group.  
+    Granted: US 11,487,835 B2 (Nov. 2022), JP 6655223 B1 (Feb. 2020)  
+    [[US Patent](https://patents.google.com/patent/US11487835B2/en)] [[JP Patent](https://patents.google.com/patent/JP6655223B1/en)]
+  2. **Summary Generating Device, Summary Generating Method, and Information Storage Medium**: <ins>Vijay Daultani</ins>, Lasguido Nio, Youngjoo Chung. Assignee: Rakuten Group.  
+    Granted: US 11,061,950 B2 (Jul. 2021)  
+    [[US Patent](https://patents.google.com/patent/US11061950B2/en)]
+  3. **Instruction Selection for a Compiler** (Information Processing Apparatus, Information Processing Method and Storage Medium Storing Program): <ins>Vijay Daultani</ins>. Assignee: NEC.  
+    Granted: US 10,922,061 B2 (Feb. 2021), JP 6642738 B2 (Feb. 2020)  
+    [[US Patent](https://patents.google.com/patent/US10922061B2/en)] [[JP Patent](https://patents.google.com/patent/JP6642738B2/en)]
+  4. **Search System, Search Method, and Program**: <ins>Vijay Daultani</ins>. Assignee: Rakuten Group.  
+    Granted: JP 6560843 B1 (Aug. 2019)  
+    [[JP Patent](https://patents.google.com/patent/JP6560843B1/en)]
+
+### Other Filings
+  1. **Improved Sparse Convolutional Neural Network**: <ins>Vijay Daultani</ins>. Assignee: NEC. PCT application PCT/JP2016/081973, filed Oct. 2016 (lapsed).  
     [[Link](https://patents.google.com/patent/WO2018073975A1)]
-  5. **Information Processing Method and Device for Neural Network**: <ins>Vijay Daultani</ins>. Filed: June 2016, Application No: PCT/JP2016/068741  
+  2. **Information Processing Method and Device for Neural Network**: <ins>Vijay Daultani</ins>. Assignee: NEC. PCT application PCT/JP2016/068741, filed Jun. 2016 (lapsed).  
     [[Link](https://patents.google.com/patent/WO2017216976A1)]
-  6. **Information Processing Apparatus, Information Processing Method and Storage Medium Storing Program**: <ins>Vijay Daultani</ins>. Filed: February 2016, Application No: PCT/JP2016/002686  
-    [[Link](https://patents.google.com/patent/WO2017208283A1)]
 
 
 ## Presentations
@@ -51,7 +60,7 @@ My research focuses on enhancing the reliability and interpretability of languag
   Venue: Sage University   
   Date: Apr. 16 2025   
   [[Presentation](/assets/docs/bringing_india_to_the_forefront_of_ai_sage_04_16_2025.pdf)]
-  4. **Imminent AI – Generative Adversarial Networks**    
+  4. **Imminent AI: Generative Adversarial Networks**    
   Venue: Rakuten Technology Conference   
   Date: Nov. 9 2019    
   [[Video](https://www.youtube.com/watch?v=ructb42duVs)]
