@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vijay Daultani Profile"
+title                    : "Vijay Daultani - CEO & Co-Founder, Neural Nurture"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Vijay Daultani"
-description              : "Vijay Daultani personal website."
+description              : "Vijay Daultani is CEO & Co-Founder of Neural Nurture, an applied AI lab building NLP and computer-vision products. Ex-Rakuten, Amazon and NEC; PhD in NLP."
 url                      : https://vijaydaultani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,17 +95,20 @@ analytics:
 author:
   name             : "Vijay Daultani"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "CEO & Founder @ Neural Nurture"
-  location         : "India"
+  bio              : "CEO & Co-Founder @ Neural Nurture"
+  location         : "Indore, India"
   #email            : vijay (dot) daultani (at) gmail.com
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:vijay.daultani@gmail.com"
+    - label: "Neural Nurture"
+      icon: "fas fa-fw fa-building"
+      url: "https://www.ntwo.ai"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/vijaydaultani/"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=qsoG8ZQAAAAJ&hl=en"
-    - label: "Twitter"
+    - label: "X (Twitter)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/vijaydaultani"
     - label: "Facebook"
@@ -114,9 +117,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vijaydaultani"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/vijaydaultani/"
 
 # Reading Files
 include: [".htaccess", "_pages"]
