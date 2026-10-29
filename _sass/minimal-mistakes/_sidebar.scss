@@ -346,3 +346,12 @@
   -webkit-transition: none;
   transition: none;
 }
+
+/* Give the location row the same spacing as the link rows below it */
+.author__urls li[itemprop="homeLocation"] {
+  margin-bottom: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: $type-size-5;
+}
