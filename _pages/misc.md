@@ -7,7 +7,7 @@ layout: single
 
 ## Press & Speaking
 - **HEV CXO Bridge, Indore (2026)**  
-  I represented Neural Nurture at a roundtable of 30 leaders from industry and academia on the talent ecosystem. Three themes stood out for me. First, AI raises the technical floor, not the ceiling: as output becomes cheap, the edge shifts to judgment, ownership, systems thinking and leading people. Second, we are testing for the wrong things: future builders need exposure to ambiguous, unstructured problems, not benchmarks that reward recall over reasoning. Third, the talent pipeline is not academia's problem alone: if industry wants different graduates, it has to help design the path rather than only hiring at the end of it. This belief shapes how we build [Tiaris](https://tiaris.ai) at Neural Nurture.  
+  I represented Neural Nurture at a roundtable of 30 industry and academic leaders on the talent ecosystem. My takeaway: AI raises the technical floor, not the ceiling, so judgment and ownership now matter most, and industry must help shape the talent pipeline rather than only hire from it.  
   [[Post](https://www.linkedin.com/posts/hevcxobridge-futureofwork-industryacademia-ugcPost-7508074154961858560-pQYK/)]
 - **Nikkei AI Summit (2019)**  
   I was invited as a panelist for a group discussion titled *“Machines That Speak Our Language: Real Conversations in Science Fiction Scenarios.”* The session explored the intersection of natural language processing and speculative fiction, focusing on how advancements in AI are bringing science fiction concepts, like intelligent machines capable of real dialogue, closer to reality.   
