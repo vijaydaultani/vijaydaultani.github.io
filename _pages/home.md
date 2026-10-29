@@ -3,7 +3,7 @@ I'm CEO and Co-Founder of **[Neural Nurture](https://www.ntwo.ai)**, an applied 
 
 **Recent:** In September 2026 I joined 30 leaders from industry and academia at the HEV CXO Bridge roundtable in Indore on building India's AI talent pipeline. [[Read more](/misc/#press--speaking)]
 
-**Investors and partners:** reach me on [LinkedIn](https://www.linkedin.com/in/vijaydaultani/) or through [ntwo.ai](https://www.ntwo.ai).
+**Investors and partners:** reach me on [LinkedIn](https://www.linkedin.com/in/vijaydaultani/).
 
 ## Background
 I've spent over a decade shipping machine learning at scale, across research labs and some of the largest consumer platforms in Asia.
