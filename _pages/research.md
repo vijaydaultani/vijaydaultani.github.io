@@ -24,26 +24,32 @@ My research focuses on enhancing the reliability and interpretability of languag
   [[URL](https://tsys.jp/sasimi/2016/program/program_abst.html#R1-15)]
 
 ## [Patents](https://patents.google.com/?inventor=VIJAY+DAULTANI)
-Four inventions granted as six patents in the United States and Japan.
+Four inventions granted as six patents in the United States and Japan. My patents have been cited as prior art in later filings by Samsung, Microsoft, Google, Intel, Sony, Canon, JPMorgan Chase, Walmart and others.
 
 ### Granted
   1. **Information Processing System, Information Processing Method, and Program**: Robin Swezey, Jing Mi, <ins>Vijay Daultani</ins>. Assignee: Rakuten Group.  
     Granted: US 11,487,835 B2 (Nov. 2022), JP 6655223 B1 (Feb. 2020)  
+    Cited by later patents from Canon, Naver, Xiaomi and NTT Communications.  
     [[US Patent](https://patents.google.com/patent/US11487835B2/en)] [[JP Patent](https://patents.google.com/patent/JP6655223B1/en)]
   2. **Summary Generating Device, Summary Generating Method, and Information Storage Medium**: <ins>Vijay Daultani</ins>, Lasguido Nio, Youngjoo Chung. Assignee: Rakuten Group.  
     Granted: US 11,061,950 B2 (Jul. 2021)  
+    Cited in 9 later patent families, including filings by JPMorgan Chase, Walmart, Yahoo and Fujifilm.  
     [[US Patent](https://patents.google.com/patent/US11061950B2/en)]
   3. **Instruction Selection for a Compiler** (Information Processing Apparatus, Information Processing Method and Storage Medium Storing Program): <ins>Vijay Daultani</ins>. Assignee: NEC.  
     Granted: US 10,922,061 B2 (Feb. 2021), JP 6642738 B2 (Feb. 2020)  
+    Cited by a later Microsoft compiler optimization patent.  
     [[US Patent](https://patents.google.com/patent/US10922061B2/en)] [[JP Patent](https://patents.google.com/patent/JP6642738B2/en)]
   4. **Search System, Search Method, and Program**: <ins>Vijay Daultani</ins>. Assignee: Rakuten Group.  
     Granted: JP 6560843 B1 (Aug. 2019)  
+    Cited in 5 later patent families, including filings by Fujitsu, Kawasaki Heavy Industries and Capital One.  
     [[JP Patent](https://patents.google.com/patent/JP6560843B1/en)]
 
 ### Other Filings
   1. **Improved Sparse Convolutional Neural Network**: <ins>Vijay Daultani</ins>. Assignee: NEC. PCT application PCT/JP2016/081973, filed Oct. 2016 (lapsed).  
+    Cited as prior art in 31 later patent families, including filings by Samsung, Microsoft, Google, Intel and Alibaba.  
     [[Link](https://patents.google.com/patent/WO2018073975A1)]
   2. **Information Processing Method and Device for Neural Network**: <ins>Vijay Daultani</ins>. Assignee: NEC. PCT application PCT/JP2016/068741, filed Jun. 2016 (lapsed).  
+    Cited by later patents from Sony and Samsung.  
     [[Link](https://patents.google.com/patent/WO2017216976A1)]
 
 
